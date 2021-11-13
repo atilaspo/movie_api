@@ -1,3 +1,3 @@
-- Web Site to practice featching APIs
+- Web Site to practice fetching APIs
 
 ![snapshot](img/snapshot.png)
